@@ -1,0 +1,28 @@
+[project]
+name = "network-based-resilliience-assessment"
+version = "0.1.0"
+description = "Network-Based Resillience Assessment"
+readme = "README.md"
+authors = [
+    { name = "Author Name", email = "" }
+]
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "networkx>=3.5",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.2",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+challenges-in-sustainability = "nra:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["nbra"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,30 @@
+questionId	avg_score	std_score	n_responses	question_text	node_id	node_label
+1	2.68	1.0	19	Changes in rural development policies	Changes in rural development policies	Changes in rural development policies
+2	3.5	0.83	20	Sparse or insufficient regional rail /public transport network	Sparse or insufficient regional rail /public transport network	Sparse or insufficient regional rail /public transport network
+3	3.15	0.81	20	Inadequate regional investments	Inadequate regional investments	Inadequate regional investments
+4	3.0	0.0	25	Other_Lack of soil quality for agriculture	Lack of soil quality for agriculture	Lack of soil quality for agriculture
+5	2.52	1.23	25	Migration to city or district centre	Migration to city or district centre	Migration to city or district centre
+6	2.79	0.88	24	Inadequate public services or difficult access to the district	Inadequate public services or difficult access to the district	Inadequate public services or difficult access to the district
+7	2.48	1.05	25	Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)	Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)	Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)
+8	2.52	1.0	25	Inadequate educational services (schools, courses, kindergartens, etc.)	Inadequate educational services (schools, courses, kindergartens, etc.)	Inadequate educational services (schools, courses, kindergartens, etc.)
+9	3.44	0.82	25	Lack of adequate and varied transport connections	Lack of adequate and varied transport connections	Lack of adequate and varied transport connections
+10	2.96	0.89	25	Lack of sufficient and diverse enterprises and industrial zones	Lack of sufficient and diverse enterprises and industrial zones	Lack of sufficient and diverse enterprises and industrial zones
+11	3.24	0.93	25	Aging	Aging	Aging
+12	2.88	0.85	24	Difficulty of access to the health care services in villages	Difficulty of access to the health care services in villages	Difficulty of access to the health care services in villages
+13	2.52	1.04	23	Difficulty of access to education services in villages	Difficulty of access to education services in villages	Difficulty of access to education services in villages
+14	2.48	0.9	23	Insufficient attractiveness / perspective for young people	Insufficient attractiveness / perspective for young people	Insufficient attractiveness / perspective for young people
+15	3.0	0.0	25	Other_Lack of knowledge about local needs	Lack of knowledge about local needs	Lack of knowledge about local needs
+16	3.48	0.51	25	Lack of sufficient and varied job opportunities	Lack of sufficient and varied job opportunities	Lack of sufficient and varied job opportunities
+17	3.52	0.82	25	Insufficient or infrequent public transport facilities	Insufficient or infrequent public transport facilities	Insufficient or infrequent public transport facilities
+18	3.0	1.08	25	Inadequate communication and internet access	Inadequate communication and internet access	Inadequate communication and internet access
+19	3.72	0.54	25	Increasing and improving public transportation facilities	Increasing and improving public transportation facilities	Increasing and improving public transportation facilities
+20	3.08	0.76	25	Improving education service opportunities	Improving education service opportunities	Improving education service opportunities
+21	3.16	0.75	25	Improving health care facilities	Improving health care facilities	Improving health care facilities
+22	2.78	1.0	23	Regional use of renewable energy sources	Regional use of renewable energy sources	Regional use of renewable energy sources
+23	2.79	0.93	24	Tourism promotion and infrastructure investments	Tourism promotion and infrastructure investments	Tourism promotion and infrastructure investments
+24	3.67	0.92	24	Broadband Internet access	Broadband Internet access	Broadband Internet access
+25	2.62	0.92	24	Creation of a new generation of co-working spaces and production areas (3D printers)	Creation of a new generation of co-working spaces and production areas (3D printers)	Creation of a new generation of co-working spaces and production areas (3D printers)
+26	2.58	1.14	24	Consultation for digital literacy in the villages	Consultation for digital literacy in the villages	Consultation for digital literacy in the villages
+27	3.0	0.0	25	Other_Establish research institutions (federal level) in rural areas (incubators)	Establish research institutions (federal level) in rural areas (incubators)	Establish research institutions (federal level) in rural areas (incubators)
+28	3.0	0.0	25	Other_Promote ecological agriculture	Promote ecological agriculture	Promote ecological agriculture
+29	3.0	0.0	25	Other_Promote intergenerational housing projects	Promote intergenerational housing projects	Promote intergenerational housing projects

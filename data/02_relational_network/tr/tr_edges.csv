@@ -1,0 +1,90 @@
+Source,Target,Type,Id,Label,Weight
+Changes in rural development policies,Removal of taxes,Undirected,545,,3.33
+Changes in rural development policies,"Supporting commercial enterprises, SMEs",Undirected,546,,3.41
+Changes in rural development policies,Supporting cooperatives,Undirected,547,,3.67
+Changes in rural development policies,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,548,,3.41
+Changes in rural development policies,Reducing and eliminating environmental problems,Undirected,549,,3.38
+Deficiencies in national - regional development policies,Supporting agricultural production,Undirected,550,,3.45
+Deficiencies in national - regional development policies,Removal of taxes,Undirected,551,,3.02
+Deficiencies in national - regional development policies,"Supporting commercial enterprises, SMEs",Undirected,552,,3.1
+Deficiencies in national - regional development policies,Supporting cooperatives,Undirected,553,,3.37
+Deficiencies in national - regional development policies,Reducing and eliminating environmental problems,Undirected,554,,3.08
+Migration to city or district centre,Improving health care facilities,Undirected,555,,3.23
+Migration to city or district centre,Improving education services,Undirected,556,,3.13
+Migration to city or district centre,"Supporting commercial enterprises, SMEs",Undirected,557,,3.16
+Migration to city or district centre,Socializing and shopping facilities for young population,Undirected,558,,3.08
+Migration to city or district centre,Supporting cooperatives,Undirected,559,,3.42
+Migration to city or district centre,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,560,,3.16
+Migration to city or district centre,Reducing and eliminating environmental problems,Undirected,561,,3.13
+"Inadequate educational services (schools, courses, kindergartens, etc.)",Improving education services,Undirected,562,,2.88
+"Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)",Improving health care facilities,Undirected,563,,2.98
+"Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)",Improving education services,Undirected,564,,2.88
+Migration,Improving health care facilities,Undirected,565,,3.23
+Migration,Improving education services,Undirected,566,,3.13
+Migration,Supporting agricultural production,Undirected,567,,3.5
+Migration,"Supporting commercial enterprises, SMEs",Undirected,568,,3.16
+Migration,Socializing and shopping facilities for young population,Undirected,569,,3.08
+Migration,Supporting cooperatives,Undirected,570,,3.42
+Migration,Reducing and eliminating environmental problems,Undirected,571,,3.13
+Aging,Improving health care facilities,Undirected,572,,3.11
+Aging,"Supporting commercial enterprises, SMEs",Undirected,573,,3.03
+Aging,Socializing and shopping facilities for young population,Undirected,574,,2.95
+Aging,Supporting cooperatives,Undirected,575,,3.29
+Aging,Reducing and eliminating environmental problems,Undirected,576,,3
+Difficulty of access to education services in villages,Improving education services,Undirected,577,,2.95
+Difficulty of access to the health care services in villages,Improving health care facilities,Undirected,578,,3.04
+Lack of regulation of purchase and sale prices of agricultural products,Supporting agricultural production,Undirected,579,,3.73
+Lack of regulation of purchase and sale prices of agricultural products,Removal of taxes,Undirected,580,,3.3
+Lack of regulation of purchase and sale prices of agricultural products,Supporting cooperatives,Undirected,581,,3.64
+Lack of Agricultural product planning system,Supporting agricultural production,Undirected,582,,3.73
+Lack of Agricultural product planning system,Removal of taxes,Undirected,583,,3.3
+Lack of Agricultural product planning system,Supporting cooperatives,Undirected,584,,3.64
+Lack of Agricultural product planning system,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,585,,3.38
+Inadequate agricultural support,Supporting agricultural production,Undirected,586,,3.7
+Inadequate agricultural support,Removal of taxes,Undirected,587,,3.27
+Inadequate agricultural support,"Supporting commercial enterprises, SMEs",Undirected,588,,3.35
+Inadequate agricultural support,Supporting cooperatives,Undirected,589,,3.62
+Inadequate agricultural support,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,590,,3.35
+Inadequate agricultural support,"Providing consultancy services of veterinary, agricultural or forest engineering to villages.",Undirected,591,,3.47
+Inadequate regional investments,"Supporting commercial enterprises, SMEs",Undirected,592,,3.23
+Inadequate regional investments,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,593,,3.23
+Lack of agricultural production profit,Supporting agricultural production,Undirected,594,,3.42
+Lack of agricultural production profit,Removal of taxes,Undirected,595,,3
+Lack of agricultural production profit,Supporting cooperatives,Undirected,596,,3.34
+Lack of agricultural production profit,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,597,,3.08
+Closure of factories.,Supporting agricultural production,Undirected,598,,3.42
+Closure of factories.,"Supporting commercial enterprises, SMEs",Undirected,599,,3.08
+Closure of factories.,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,600,,3.08
+Expensiveness,Supporting agricultural production,Undirected,601,,3.58
+Expensiveness,Removal of taxes,Undirected,602,,3.15
+Expensiveness,Supporting sharing economy,Undirected,603,,3.27
+Expensiveness,Supporting cooperatives,Undirected,604,,3.49
+Expensiveness,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,605,,3.23
+Inactive cooperatives and lack of support,Supporting agricultural production,Undirected,606,,3.55
+Inactive cooperatives and lack of support,Supporting sharing economy,Undirected,607,,3.25
+Inactive cooperatives and lack of support,Supporting cooperatives,Undirected,608,,3.46
+Inactive cooperatives and lack of support,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,609,,3.21
+Inadequate irrigation infrastructure,Supporting agricultural production,Undirected,610,,3.37
+Inadequate irrigation infrastructure,Supporting cooperatives,Undirected,611,,3.29
+Lack of sufficient and varied job opportunities,Supporting agricultural production,Undirected,612,,3.33
+Lack of sufficient and varied job opportunities,"Supporting commercial enterprises, SMEs",Undirected,613,,2.98
+Lack of sufficient and varied job opportunities,Socializing and shopping facilities for young population,Undirected,614,,2.9
+Lack of sufficient and varied job opportunities,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,615,,2.98
+Lack of quality of life and living conditions,Supporting sharing economy,Undirected,616,,3.13
+Lack of quality of life and living conditions,Socializing and shopping facilities for young population,Undirected,617,,3
+Accessibility,Socializing and shopping facilities for young population,Undirected,618,,3
+Accessibility,"Establishment of common production areas in villages such as cold stores, small production facilities",Undirected,619,,3.08
+Environmental pollution in the region,Reducing and eliminating environmental problems,Undirected,620,,3.03
+Destruction of natural resources in the region,Reducing and eliminating environmental problems,Undirected,621,,2.92
+Environmental pollution in the district,Reducing and eliminating environmental problems,Undirected,622,,2.95
+Dry seasons,Supporting cooperatives,Undirected,623,,3.34
+Dry seasons,"Providing consultancy services of veterinary, agricultural or forest engineering to villages.",Undirected,624,,3.2
+Pollutant effect of industrial plants or mining sites,Reducing and eliminating environmental problems,Undirected,625,,3.03
+Depletion or destruction of local natural resources,Reducing and eliminating environmental problems,Undirected,626,,2.88
+Depletion or destruction of local natural resources,"Providing consultancy services of veterinary, agricultural or forest engineering to villages.",Undirected,627,,3.02
+Diseases and pests in agricultural and animal products,Supporting cooperatives,Undirected,628,,3.12
+Diseases and pests in agricultural and animal products,"Providing consultancy services of veterinary, agricultural or forest engineering to villages.",Undirected,629,,2.97
+Usage of foreign seeds,Supporting sharing economy,Undirected,630,,3.13
+Usage of foreign seeds,Supporting cooperatives,Undirected,631,,3.34
+Usage of foreign seeds,"Providing consultancy services of veterinary, agricultural or forest engineering to villages.",Undirected,632,,3.2
+Misuse of pasture areas,Supporting cooperatives,Undirected,633,,3.34

@@ -1,0 +1,71 @@
+Source,Target,Type,Id,Label,Weight
+Changes in rural development policies,Improving health care facilities,Undirected,0,,2.96
+Changes in rural development policies,Improving education service opportunities,Undirected,1,,2.92
+Changes in rural development policies,Establish research institutions (federal level) in rural areas (incubators),Undirected,2,,2.88
+Changes in rural development policies,Increasing and improving public transportation facilities,Undirected,3,,3.24
+Changes in rural development policies,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,4,,2.69
+Changes in rural development policies,Regional use of renewable energy sources,Undirected,5,,2.76
+Changes in rural development policies,Promote ecological agriculture,Undirected,6,,2.88
+Lack of knowledge about local needs,Tourism promotion and infrastructure investments,Undirected,7,,2.9
+Lack of knowledge about local needs,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,8,,2.81
+Lack of knowledge about local needs,Broadband Internet access,Undirected,9,,3.33
+Inadequate public services or difficult access to the district,Increasing and improving public transportation facilities,Undirected,10,,3.26
+"Inadequate educational services (schools, courses, kindergartens, etc.)",Improving education service opportunities,Undirected,11,,2.81
+"Inadequate educational services (schools, courses, kindergartens, etc.)",Promote intergenerational housing projects,Undirected,12,,2.77
+"Inadequate educational services (schools, courses, kindergartens, etc.)",Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,13,,2.58
+"Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)",Improving health care facilities,Undirected,14,,2.96
+"Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)",Promote intergenerational housing projects,Undirected,15,,2.75
+Migration to city or district centre,Improving health care facilities,Undirected,16,,3.08
+Migration to city or district centre,Improving education service opportunities,Undirected,17,,2.79
+Migration to city or district centre,Promote intergenerational housing projects,Undirected,18,,2.75
+Migration to city or district centre,Consultation for digital literacy in the villages,Undirected,19,,2.54
+Migration to city or district centre,Establish research institutions (federal level) in rural areas (incubators),Undirected,20,,2.75
+Migration to city or district centre,Increasing and improving public transportation facilities,Undirected,21,,3.11
+Migration to city or district centre,Tourism promotion and infrastructure investments,Undirected,22,,2.65
+Migration to city or district centre,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,23,,2.56
+Migration to city or district centre,Broadband Internet access,Undirected,24,,3.08
+Migration to city or district centre,Regional use of renewable energy sources,Undirected,25,,2.64
+Migration to city or district centre,Promote ecological agriculture,Undirected,26,,2.75
+Insufficient attractiveness / perspective for young people,Improving education service opportunities,Undirected,27,,3.04
+Insufficient attractiveness / perspective for young people,Promote intergenerational housing projects,Undirected,28,,3
+Insufficient attractiveness / perspective for young people,Establish research institutions (federal level) in rural areas (incubators),Undirected,29,,3
+Insufficient attractiveness / perspective for young people,Tourism promotion and infrastructure investments,Undirected,30,,2.9
+Insufficient attractiveness / perspective for young people,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,31,,2.81
+Insufficient attractiveness / perspective for young people,Broadband Internet access,Undirected,32,,3.33
+Insufficient attractiveness / perspective for young people,Regional use of renewable energy sources,Undirected,33,,2.89
+Insufficient attractiveness / perspective for young people,Promote ecological agriculture,Undirected,34,,3
+Aging,Improving health care facilities,Undirected,35,,2.98
+Aging,Improving education service opportunities,Undirected,36,,3.16
+Aging,Promote intergenerational housing projects,Undirected,37,,3.12
+Aging,Consultation for digital literacy in the villages,Undirected,38,,2.91
+Aging,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,39,,2.94
+Aging,Broadband Internet access,Undirected,40,,3.46
+Aging,Regional use of renewable energy sources,Undirected,41,,3.01
+Difficulty of access to the health care services in villages,Improving health care facilities,Undirected,42,,2.85
+Difficulty of access to the health care services in villages,Consultation for digital literacy in the villages,Undirected,43,,2.73
+Difficulty of access to the health care services in villages,Increasing and improving public transportation facilities,Undirected,44,,3.3
+Difficulty of access to education services in villages,Improving education service opportunities,Undirected,45,,2.8
+Difficulty of access to education services in villages,Consultation for digital literacy in the villages,Undirected,46,,2.55
+Difficulty of access to education services in villages,Increasing and improving public transportation facilities,Undirected,47,,3.26
+Sparse or insufficient regional rail /public transport network,Increasing and improving public transportation facilities,Undirected,48,,3.6
+Inadequate regional investments,Establish research institutions (federal level) in rural areas (incubators),Undirected,49,,3
+Inadequate regional investments,Tourism promotion and infrastructure investments,Undirected,50,,2.9
+Inadequate regional investments,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,51,,2.81
+Inadequate regional investments,Broadband Internet access,Undirected,52,,3.33
+Inadequate regional investments,Regional use of renewable energy sources,Undirected,53,,2.89
+Inadequate regional investments,Promote ecological agriculture,Undirected,54,,3
+Lack of adequate and varied transport connections,Increasing and improving public transportation facilities,Undirected,55,,3.58
+Lack of sufficient and diverse enterprises and industrial zones,Establish research institutions (federal level) in rural areas (incubators),Undirected,56,,2.98
+Lack of sufficient and diverse enterprises and industrial zones,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,57,,2.79
+Lack of sufficient and diverse enterprises and industrial zones,Broadband Internet access,Undirected,58,,3.31
+Lack of sufficient and diverse enterprises and industrial zones,Regional use of renewable energy sources,Undirected,59,,2.87
+Lack of sufficient and varied job opportunities,Promote intergenerational housing projects,Undirected,60,,3.46
+Lack of sufficient and varied job opportunities,Establish research institutions (federal level) in rural areas (incubators),Undirected,61,,3.46
+Lack of sufficient and varied job opportunities,Tourism promotion and infrastructure investments,Undirected,62,,3.35
+Lack of sufficient and varied job opportunities,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,63,,3.27
+Lack of sufficient and varied job opportunities,Broadband Internet access,Undirected,64,,3.79
+Lack of sufficient and varied job opportunities,Regional use of renewable energy sources,Undirected,65,,3.35
+Insufficient or infrequent public transport facilities,Increasing and improving public transportation facilities,Undirected,66,,3.62
+Inadequate communication and internet access,Creation of a new generation of co-working spaces and production areas (3D printers),Undirected,67,,2.81
+Inadequate communication and internet access,Broadband Internet access,Undirected,68,,3.33
+Lack of soil quality for agriculture,Promote ecological agriculture,Undirected,69,,3

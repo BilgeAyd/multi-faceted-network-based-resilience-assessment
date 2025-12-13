@@ -1,0 +1,42 @@
+Id,Label,no,scale,dimension,value,type,Degree,Weighted Degree,Turkce
+Changes in rural development policies,Changes in rural development policies,1,Macro,Social,3.65,Factors,5,17.2,Kırsal kalkınma politikalarındaki değişiklikler
+Removal of taxes,Removal of taxes,35,Macro,Economic,3,Solutions,7,22.36,Tarımsal vergi desteği
+"Supporting commercial enterprises, SMEs","Supporting commercial enterprises, SMEs",37,Mezzo,Economic,3.16,Solutions,9,28.5,"Ticari işletmelerin, KOBİ'lerin desteklenmesi"
+Supporting cooperatives,Supporting cooperatives,39,Micro,Economic,3.68,Solutions,16,54.78,Kooperatiflerin desteklenmesi
+"Establishment of common production areas in villages such as cold stores, small production facilities","Establishment of common production areas in villages such as cold stores, small production facilities",40,Micro,Economic,3.16,Solutions,11,35.19,"Köylerde soğuk hava depoları, küçük üretim tesislerinin kurulması"
+Reducing and eliminating environmental problems,Reducing and eliminating environmental problems,41,Macro,Ecological,3.1,Solutions,10,30.53,Çevre sorunlarının azaltılması ve ortadan kaldırılması
+Deficiencies in national - regional development policies,Deficiencies in national - regional development policies,2,Macro,Social,3.05,Factors,5,16.02,Ulusal - bölgesel kalkınma politikalarındaki eksiklikler
+Supporting agricultural production,Supporting agricultural production,34,Macro,Economic,3.85,Solutions,11,38.77,Tarımsal üretimin desteklenmesi
+Migration to city or district centre,Migration to city or district centre,3,Mezzo,Social,3.15,Factors,7,22.31,Şehir veya ilçe merkezine göç
+Improving health care facilities,Improving health care facilities,32,Mezzo,Social,3.32,Solutions,5,15.58,Sağlık tesislerinin iyileştirilmesi
+Improving education services,Improving education services,33,Mezzo,Social,3.1,Solutions,5,14.97,Eğitim hizmetlerinin iyileştirilmesi
+Socializing and shopping facilities for young population,Socializing and shopping facilities for young population,38,Mezzo,Economic,3,Solutions,6,18,Genç nüfus için sosyalleşme ve alışveriş olanakları
+"Inadequate educational services (schools, courses, kindergartens, etc.)","Inadequate educational services (schools, courses, kindergartens, etc.)",4,Mezzo,Social,2.65,Factors,1,2.88,"Yetersiz eğitim hizmetleri (okullar, kurslar, anaokulları, vb.)"
+"Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)","Insufficient Health Services (Hospital, Elderly Nursing Home, etc.)",5,Mezzo,Social,2.65,Factors,2,5.86,"Yetersiz Sağlık Hizmetleri (Hastane, Yaşlı Bakımevi, vb.)"
+Migration,Migration,6,Micro,Social,3.15,Factors,7,22.65,Köyden göç
+Aging,Aging,7,Micro,Social,2.9,Factors,5,15.37,Yaşlanma
+Difficulty of access to education services in villages,Difficulty of access to education services in villages,8,Micro,Social,2.8,Factors,1,2.95,Köylerde eğitim hizmetlerine erişimin zorluğu
+Difficulty of access to the health care services in villages,Difficulty of access to the health care services in villages,9,Micro,Social,2.75,Factors,1,3.03,Köylerde sağlık hizmetlerine erişimin zorluğu
+Lack of regulation of purchase and sale prices of agricultural products,Lack of regulation of purchase and sale prices of agricultural products,10,Macro,Economic,3.6,Factors,3,10.67,Tarımsal ürünlerin alım ve satım fiyatlarının düzenlenmemesi
+Lack of Agricultural product planning system,Lack of Agricultural product planning system,11,Macro,Economic,3.6,Factors,4,14.05,Tarımsal ürün planlama sisteminin olmaması
+Inadequate agricultural support,Inadequate agricultural support,12,Macro,Economic,3.55,Factors,6,20.75,Yetersiz tarımsal destek
+"Providing consultancy services of veterinary, agricultural or forest engineering to villages.","Providing consultancy services of veterinary, agricultural or forest engineering to villages",42,Micro,Ecological,3.4,Solutions,5,15.86,"Köylere veterinerlik, ziraat veya orman mühendisliği danışmanlık hizmetleri sağlanması"
+Inadequate regional investments,Inadequate regional investments,13,Macro,Economic,3.3,Factors,2,6.46,Yetersiz bölgesel yatırımlar
+Lack of agricultural production profit,Lack of agricultural production profit,15,Mezzo,Economic,3,Factors,4,12.83,Tarımsal üretimde kar eksikliği
+Closure of factories.,Closure of factories,43,Macro,Economic,3,Factors,3,9.57,Fabrikaların kapatılması
+Expensiveness,Expensiveness,17,Micro,Economic,3.3,Factors,5,16.72,Pahalılık
+Supporting sharing economy,Supporting sharing economy,36,Mezzo,Economic,3.25,Solutions,4,12.78,Paylaşım ekonomisinin desteklenmesi
+Inactive cooperatives and lack of support,Inactive cooperatives and lack of support,18,Micro,Economic,3.25,Factors,4,13.47,Aktif olmayan kooperatifler ve destek eksikliği
+Inadequate irrigation infrastructure,Inadequate irrigation infrastructure,19,Micro,Economic,2.89,Factors,2,6.65,Yetersiz sulama altyapısı
+Lack of sufficient and varied job opportunities,Lack of sufficient and varied job opportunities,20,Micro,Economic,2.8,Factors,4,12.19,Yeterli ve çeşitli iş olanaklarının olmaması
+Lack of quality of life and living conditions,Lack of quality of life and living conditions,21,Micro,Economic,3,Factors,2,6.13,Yaşam kalitesi koşullarının yetersizliği
+Accessibility,Accessibility,22,Micro,Economic,3,Factors,2,6.07,Erişilebilirlik
+Environmental pollution in the region,Environmental pollution in the region,23,Macro,Ecological,2.95,Factors,1,3.03,Bölgedeki çevre kirliliği
+Destruction of natural resources in the region,Destruction of natural resources in the region,24,Macro,Ecological,2.75,Factors,1,2.92,Destruction of natural resources in the region
+Environmental pollution in the district,Environmental pollution in the district,25,Mezzo,Ecological,2.8,Factors,1,2.95,İlçedeki çevre kirliliği
+Dry seasons,Dry Seasons,26,Mezzo,Ecological,3,Factors,2,6.53,Kuru mevsimler
+Pollutant effect of industrial plants or mining sites,Pollutant effect of industrial plants or mining sites,27,Micro,Ecological,2.95,Factors,1,3.02,Endüstriyel tesislerin veya maden sahalarının kirletici etkisi
+Depletion or destruction of local natural resources,Depletion or destruction of local natural resources,28,Micro,Ecological,2.65,Factors,2,5.9,Yerel doğal kaynakların tükenmesi veya yok olması
+Diseases and pests in agricultural and animal products,Diseases and pests in agricultural and animal products,29,Micro,Ecological,2.55,Factors,2,6.08,Tarımsal ve hayvansal ürünlerde hastalık ve zararlılar
+Usage of foreign seeds,Usage of foreign seeds,30,Micro,Ecological,3,Factors,3,9.67,Yabancı tohum kullanımı
+Misuse of pasture areas,Misuse of pasture areas,31,Micro,Ecological,3,Factors,1,3.33,Mera alanlarının yanlış kullanımı

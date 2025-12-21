@@ -1,0 +1,78 @@
+Source,Target,Type,Id,Label,Weight
+Improvement of Rural Development Policy,2.69 Changes in Rural development Policies,Undirected,0,,2.69
+Improvement of Rural Development Policy,3.31 Sparse or insufficient regional rail /public transport network,Undirected,1,,3.31
+Improvement of Rural Development Policy,2.92 Inadequate regional investments,Undirected,2,,2.92
+Improvement of Rural Development Policy,1.62 Destruction of Natural Resources,Undirected,3,,1.62
+Improvement of Rural Development Policy,3.0 Inadequate public services or difficult access to the district,Undirected,4,,3
+Improvement of Rural Development Policy,Soil quality,Undirected,5,,1
+Improvement of Rural Development Policy,Lack of coordination between the different level of administrations,Undirected,6,,1
+Using new digital solutions and providing distributed services.,3.0 Inadequate public services or difficult access to the district,Undirected,7,,3
+Using new digital solutions and providing distributed services.,2.92 Migration to city or district center,Undirected,8,,2.92
+Using new digital solutions and providing distributed services.,2.83 Difficulty of access to the healthcare services in villages,Undirected,9,,2.83
+Using new digital solutions and providing distributed services.,2.75 Dif. Acc. Cultural services,Undirected,10,,2.75
+Using new digital solutions and providing distributed services.,2.5 Dif.Acc. Education serv.,Undirected,11,,2.5
+Using new digital solutions and providing distributed services.,3.33 Insufficient communication and internet access,Undirected,12,,3.33
+Using new digital solutions and providing distributed services.,Lack of coordination between the different level of administrations,Undirected,13,,1
+Empowered coordination between local and regional level administrations and institutions,2.69 Changes in Rural development Policies,Undirected,14,,2.69
+Empowered coordination between local and regional level administrations and institutions,2.92 Inadequate regional investments,Undirected,15,,2.92
+Empowered coordination between local and regional level administrations and institutions,2.92 Migration to city or district center,Undirected,16,,2.92
+Empowered coordination between local and regional level administrations and institutions,Lack of coordination between the different level of administrations,Undirected,17,,1
+Understanding local needs more detailed,3.17 Aging,Undirected,18,,3.17
+Understanding local needs more detailed,2.83 Difficulty of access to the healthcare services in villages,Undirected,19,,2.83
+Understanding local needs more detailed,2.75 Dif. Acc. Cultural services,Undirected,20,,2.75
+Understanding local needs more detailed,2.5 Dif.Acc. Education serv.,Undirected,21,,2.5
+Understanding local needs more detailed,4.0 Lack of sufficient and varied job opportunities,Undirected,22,,4
+Understanding local needs more detailed,3.5 Insufficient or infrequent public transport facilities,Undirected,23,,3.5
+Understanding local needs more detailed,3.33 Insufficient communication and internet access,Undirected,24,,3.33
+Understanding local needs more detailed,1.91 Depletion of natural resources,Undirected,25,,1.91
+Understanding local needs more detailed,Lack of coordination between the different level of administrations,Undirected,26,,1
+"More participative decision making process with local authorities, stakeholders and citizens",Lack of coordination between the different level of administrations,Undirected,27,,1
+Developing solutions for aging related problems,3.17 Aging,Undirected,28,,3.17
+Alternating public transportation for improving accessability to ; health care facilities and  cultural and education  services,3.25 Lack of adequate and varied transport connections,Undirected,29,,3.25
+Alternating public transportation for improving accessability to ; health care facilities and  cultural and education  services,3.17 Aging,Undirected,30,,3.17
+Alternating public transportation for improving accessability to ; health care facilities and  cultural and education  services,2.83 Difficulty of access to the healthcare services in villages,Undirected,31,,2.83
+Alternating public transportation for improving accessability to ; health care facilities and  cultural and education  services,2.75 Dif. Acc. Cultural services,Undirected,32,,2.75
+Alternating public transportation for improving accessability to ; health care facilities and  cultural and education  services,2.5 Dif.Acc. Education serv.,Undirected,33,,2.5
+Alternating public transportation for improving accessability to ; health care facilities and  cultural and education  services,3.5 Insufficient or infrequent public transport facilities,Undirected,34,,3.5
+Empowerment of the regional transportation connections,3.31 Sparse or insufficient regional rail /public transport network,Undirected,35,,3.31
+Empowerment of the regional transportation connections,2.92 Inadequate regional investments,Undirected,36,,2.92
+Empowerment of the regional transportation connections,3.25 Lack of adequate and varied transport connections,Undirected,37,,3.25
+Empowerment of the regional transportation connections,2.67 Lack of sufficient and diverse enterprises and industrial zones,Undirected,38,,2.67
+Supporting regional investment networks and evenly developed regions,3.31 Sparse or insufficient regional rail /public transport network,Undirected,39,,3.31
+Supporting regional investment networks and evenly developed regions,2.92 Inadequate regional investments,Undirected,40,,2.92
+Supporting regional investment networks and evenly developed regions,2.92 Migration to city or district center,Undirected,41,,2.92
+Supporting regional investment networks and evenly developed regions,2.67 Lack of sufficient and diverse enterprises and industrial zones,Undirected,42,,2.67
+Improvement of transportation options,3.31 Sparse or insufficient regional rail /public transport network,Undirected,43,,3.31
+Improvement of transportation options,2.92 Inadequate regional investments,Undirected,44,,2.92
+Improvement of transportation options,3.0 Inadequate public services or difficult access to the district,Undirected,45,,3
+Improvement of transportation options,2.92 Migration to city or district center,Undirected,46,,2.92
+Improvement of transportation options,3.25 Lack of adequate and varied transport connections,Undirected,47,,3.25
+Improvement of transportation options,2.83 Difficulty of access to the healthcare services in villages,Undirected,48,,2.83
+Improvement of transportation options,2.75 Dif. Acc. Cultural services,Undirected,49,,2.75
+Improvement of transportation options,3.5 Insufficient or infrequent public transport facilities,Undirected,50,,3.5
+Creating varied job opp.  in rural areas,2.92 Migration to city or district center,Undirected,51,,2.92
+Creating varied job opp.  in rural areas,4.0 Lack of sufficient and varied job opportunities,Undirected,52,,4
+Creating varied job opp.  in rural areas,Soil quality,Undirected,53,,1
+Developing  economic projects;,2.92 Migration to city or district center,Undirected,54,,2.92
+Developing  economic projects;,4.0 Lack of sufficient and varied job opportunities,Undirected,55,,4
+Supporting varied job opportunities  for the local producers or new comers.,2.92 Migration to city or district center,Undirected,56,,2.92
+Supporting varied job opportunities  for the local producers or new comers.,3.25 Lack of adequate and varied transport connections,Undirected,57,,3.25
+Supporting varied job opportunities  for the local producers or new comers.,4.0 Lack of sufficient and varied job opportunities,Undirected,58,,4
+Empowerment of Public transport  facilities,2.83 Difficulty of access to the healthcare services in villages,Undirected,59,,2.83
+Empowerment of Public transport  facilities,2.75 Dif. Acc. Cultural services,Undirected,60,,2.75
+Empowerment of Public transport  facilities,2.5 Dif.Acc. Education serv.,Undirected,61,,2.5
+Empowerment of Public transport  facilities,3.5 Insufficient or infrequent public transport facilities,Undirected,62,,3.5
+Improvement of Broadband Internet access,2.75 Dif. Acc. Cultural services,Undirected,63,,2.75
+Improvement of Broadband Internet access,2.5 Dif.Acc. Education serv.,Undirected,64,,2.5
+Improvement of Broadband Internet access,4.0 Lack of sufficient and varied job opportunities,Undirected,65,,4
+Improvement of Broadband Internet access,3.5 Insufficient or infrequent public transport facilities,Undirected,66,,3.5
+Regional use of renewable energy sources,4.0 Lack of sufficient and varied job opportunities,Undirected,67,,4
+Regional use of renewable energy sources,1.91 Depletion of natural resources,Undirected,68,,1.91
+Supporting organic agriculture for the protection of natural resources,1.62 Destruction of Natural Resources,Undirected,69,,1.62
+Supporting organic agriculture for the protection of natural resources,"1.82 Occurrence of natural disasters (flood-landslide-earthquake-storm-fire, etc.)",Undirected,70,,1.82
+Supporting organic agriculture for the protection of natural resources,1.91 Depletion of natural resources,Undirected,71,,1.91
+Supporting organic agriculture for the protection of natural resources,Soil quality,Undirected,72,,1
+Using soil improvement techniques,"1.82 Occurrence of natural disasters (flood-landslide-earthquake-storm-fire, etc.)",Undirected,73,,1.82
+Using soil improvement techniques,4.0 Lack of sufficient and varied job opportunities,Undirected,74,,4
+Using soil improvement techniques,1.91 Depletion of natural resources,Undirected,75,,1.91
+Using soil improvement techniques,Soil quality,Undirected,76,,1

@@ -1,0 +1,32 @@
+﻿Id,Label,,Dimension,Scale,District,Type,Av_Value,Weighted_degree
+64,3.2 Tarımsal desteklerin yetersizliği,,Economic,Micro,Babaeski,Solutions,3.13,36.20000005
+73,2.6 Trakya bölgesinde çevresel kirliliğin olması,,Economic,Mezzo,Babaeski,Solutions,3.14,33.06999993
+84,"2.75 Ticari işletmelerin, Kobi' lerin desteklenmesi",,Economic,Micro,Babaeski,Solutions,2.75,31.76999998
+90,2.5 Turizm tanıtım ve altyapı çalışmalarının yapılması,,Economic,Macro,Babaeski,Solutions,3.7,30.23999977
+81,2.7 Ulusal /Bölgesel kalkınma politikalarındaki eksiklikler,,Social,Macro,Babaeski,Factors,3.4,29.29999995
+80,3.7 Tarımsal üretimin desteklenmesi,,Social,Mezzo,Babaeski,Factors,3,24.56999993
+65,3.4 Tarımsal ürün planlama sisteminin olmaması,,Social,Micro,Babaeski,Factors,3,24.56999993
+69,2.9 Bölgesel yatırımların eksikliği,,Social,Macro,Babaeski,Factors,2.7,23.08000016
+76,3.4 Tarımsal ürün alış-satış fiyatlarının düzenlenmemesi,,Social,Mezzo,Babaeski,Solutions,3.29,21.48000026
+83,2.8 Trakya bölgesinde doğal kaynakların tahrip edilmesi,,Ecological,Mezzo,Babaeski,Solutions,3.5,19.9000001
+92,3.4 Kırsal kalkınma politikalarındaki eksiklikler,,Ecological,Macro,Babaeski,Solutions,2.88,19.82999992
+75,"2.5 Sağlık hizmetlerinin yetersiz olması (Hastane, Yaşlı Bakımevi, vb.)",,Economic,Macro,Babaeski,Solutions,2.5,16.54999995
+67,2.7 Doğal veya tarihi turizm olanaklarının desteklenmemesi/gelişmemesi,,Economic,Micro,Babaeski,Factors,3.3,15.85000014
+77,3.13 Eğitim hizmeti olanaklarının artırılması veya iyileştirilmesi,,Social,Mezzo,Babaeski,Solutions,3.13,15.22000003
+87,"2.9 Kültürel hizmetlerin yetersiz olması (Sinema, kütüphane, konser Salonu vb)",,Economic,Macro,Babaeski,Factors,3.2,12.95000005
+93,3.0 Kent /ilçe merkezine göç,,Social,Mezzo,Babaeski,Factors,2.5,11.16000009
+94,2.5 Köylerde Sağlık hizmetine erişimin zor olması,,Economic,Micro,Babaeski,Factors,2.8,9.360000134
+78,3.0 Göç,,Economic,Micro,Babaeski,Factors,2.9,9.139999866
+71,2.8 Yaşlılık,,Social,Mezzo,Babaeski,Factors,2.9,8.859999895
+70,2.6 Yerel doğal kaynakların tükenmesi/tahribi,,Social,Micro,Babaeski,Factors,2.7,8.760000229
+68,2.89 Sulama altyapısının yetersiz olması,,Social,Micro,Babaeski,Factors,2.5,8.529999971
+89,3.29 Sağlık hizmeti olanaklarının artırılması veya iyileştirilmesi,,Economic,Mezzo,Babaeski,Factors,2.7,8.309999943
+85,2.9 Pahalılık,,Economic,Macro,Babaeski,Factors,2.9,5.849999905
+74,3.3 İş olanaklarının yetersiz olması veya çeşitli olmaması,,Economic,Macro,Babaeski,Factors,3.4,3.450000048
+72,2.7 Sanayi tesislerinin /Maden sahalarının kirletici etkisi,,Economic,Micro,Babaeski,Factors,2.89,3.289999962
+88,Paylaşım ekonomisinin desteklenmesi,,Economic,Macro,Babaeski,Factors,3.4,3.079999924
+91,"3.50 Köylere veterinerlik, ziraat veya orman mühendisliği danışmanlık hizmeti sağlanması",,Social,Micro,Babaeski,Factors,2.8,3.039999962
+86,Yenilikçilik - girişimcilik merkezlerinin oluşturulması,,Ecological,Macro,Babaeski,Factors,2.8,2.839999914
+82,"2.88 Çevresel sorunların azaltılması, giderilmesi",,Ecological,Micro,Babaeski,Factors,2.7,2.789999962
+79,2.7 Köylerde Eğitim hizmetlerine erişimin zor olması,,Ecological,Macro,Babaeski,Factors,2.6,2.74000001
+66,2.8 Kooperatiflerin aktif olmaması veya desteklenmemesi,,Ecological,Micro,Babaeski,Factors,2.6,2.74000001

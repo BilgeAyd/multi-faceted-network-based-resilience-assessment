@@ -1,0 +1,35 @@
+﻿Id,Label,,Dimension,Scale,District,Type,Av_Val,Degree,Weighted Degree
+69,Bölgesel yatırımların eksikliği,,Social,Macro,Lülüburgaz,Factors,3.9,11,39.92
+77,Kent /ilçe merkezine göç,,Economic,Micro,Lüleburgaz,Solutions,3.83,9,33.38
+79,Sanayi tesislerinin /Maden sahalarının kirletici etkisi,,Ecologic,Macro,Lüleburgaz,Solutions,3.31,10,32.5
+93,Tarımsal/hayvansal ürünlerde hastalık ve zararlıların olması,,Social,Micro,Lülüburgaz,Factors,3.3,9,30
+83,Köylerde Sağlık hizmetine erişimin zor olması,,Economic,Micro,Lüleburgaz,Solutions,2.58,9,27.49
+94,"Çevresel sorunların azaltılması, giderilmesi",,Social,Mezzo,Lülüburgaz,Factors,3.3,8,26.76
+75,Kırsal kalkınma politikalarındaki eksiklikler,,Economic,Macro,Lüleburgaz,Solutions,4,7,26.35
+85,Pahalılık,,Social,Mezzo,Lüleburgaz,Solutions,3.38,7,23.18
+73,Yaşlılık,,Ecologic,Mezzo,Lüleburgaz,Solutions,3.38,6,20.48
+89,Kooperatiflerin aktif olmaması veya desteklenmemesi,,Social,Macro,Lülüburgaz,Factors,3.4,6,19.65
+92,Göç,,Social,Mezzo,Lüleburgaz,Solutions,3.15,6,19.3
+102,Ulusal /Bölgesel kalkınma politikalarındaki eksiklikler,,Economic,Micro,Lülüburgaz,Factors,3.7,5,17.8
+72,Kooperatiflerin desteklenmesi ve geliştirilmesi,,Economic,Mezzo,Lüleburgaz,Solutions,3.5,5,17.7
+87,Tarımsal desteklerin yetersizliği,,Economic,Mezzo,Lüleburgaz,Solutions,3.31,5,17.57
+91,"Eğitim hizmetlerinin yetersiz olması (Okul, kurs, kreş vb.)",,Economic,Micro,Lülüburgaz,Factors,3.7,4,14.72
+97,Turizm tanıtım ve altyapı çalışmalarının yapılması,,Economic,Macro,Lülüburgaz,Factors,3.9,4,14.66
+86,Sağlık hizmeti olanaklarının artırılması veya iyileştirilmesi,,Economic,Mezzo,Lüleburgaz,Solutions,3.17,4,11.05
+80,"Sağlık hizmetlerinin yetersiz olması (Hastane, Yaşlı Bakımevi, vb.)",,Economic,Macro,Lülüburgaz,Factors,3.8,2,7.4
+84,Trakya bölgesinde doğal kaynakların tahrip edilmesi,,Economic,Mezzo,Lülüburgaz,Factors,2.9,3,6.84
+82,İlçede çevresel kirliliğin olması,,Economic,Micro,Lülüburgaz,Factors,2.9,2,6.81
+95,Sulama altyapısının yetersiz olması,,Economic,Macro,Lülüburgaz,Factors,3.7,2,6.74
+76,"Köylere veterinerlik, ziraat veya orman mühendisliği danışmanlık hizmeti sağlanması",,Economic,Micro,Lüleburgaz,Solutions,3.33,2,6.63
+88,"Köylerde soğuk hava deposu, küçük üretim tesisleri vb. ortak üretim alanlarının kurulması",,Social,Micro,Lülüburgaz,Factors,3,2,6.3
+98,Eğitim hizmeti olanaklarının artırılması veya iyileştirilmesi,,Ecologic,Micro,Lülüburgaz,Factors,2.7,2,6.05
+81,Tarımsal üretimin desteklenmesi,,Economic,Macro,Lülüburgaz,Factors,3.8,1,3.81
+99,Paylaşım ekonomisinin desteklenmesi,,Ecologic,Micro,Lülüburgaz,Factors,3.2,1,3.25
+101,Doğal veya tarihi turizm olanaklarının desteklenmemesi/gelişmemesi,,Ecologic,Mezzo,Lülüburgaz,Factors,3.2,1,3.25
+100,Tarımsal ürün planlama sisteminin olmaması,,Ecologic,Macro,Lülüburgaz,Factors,3.1,1,3.2
+71,Yenilikçilik - girişimcilik merkezlerinin oluşturulması,,Social,Micro,Lülüburgaz,Factors,3,1,3.19
+74,Yerel doğal kaynakların tükenmesi/tahribi,,Ecologic,Macro,Lülüburgaz,Factors,2.9,1,3.1
+90,Tarımsal ürün alış-satış fiyatlarının düzenlenmemesi,,Social,Mezzo,Lülüburgaz,Factors,2.8,1,3.08
+96,"Ticari işletmelerin, Kobi' lerin desteklenmesi",,Social,Mezzo,Lülüburgaz,Factors,2.9,1,3.02
+78,Trakya bölgesinde çevresel kirliliğin olması,,Social,Micro,Lülüburgaz,Factors,2.9,1,3.02
+70,Köylerde Eğitim hizmetlerine erişimin zor olması,,Ecologic,Micro,Lülüburgaz,Factors,2.7,1,3

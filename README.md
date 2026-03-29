@@ -4,9 +4,7 @@
 
 **Year:** 2025
 
-**Study Context:** Comparative Analysis of Rural Resilience in Lüneburg Region (Germany) and Trakya Region (Turkey)
-
----
+**Study Context:** Comparative Resilience Analysis of Rural Shrinkage in Lüneburg Region (Germany) and Trakya Region (Turkey) ---
 
 ## Overview
 

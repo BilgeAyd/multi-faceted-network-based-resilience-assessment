@@ -88,7 +88,7 @@ multi-faceted-network-based-resilience-assessment/
 
 ```bash
 git clone <repository-url>
-cd network-based-resilliience-assessment
+cd multi-faceted-network-based-resilience-assessment
 ```
 
 2. **Install uv (if not installed):**

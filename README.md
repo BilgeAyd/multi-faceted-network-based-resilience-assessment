@@ -1,4 +1,4 @@
-# A Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye
+# Multi-Faceted and Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye
 
 **Author:** [Author Name(s)]
 
@@ -87,7 +87,7 @@ multi-faceted-network-based-resilience-assessment/
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/BilgeAyd/multi-faceted-network-based-resilience-assessment)>
 cd multi-faceted-network-based-resilience-assessment
 ```
 
@@ -143,11 +143,11 @@ install.packages(c("tidyverse", "Hmisc", "corrplot", "openxlsx"))
 ## Citation
 
 If you use this repository or data, please cite:
-
+If you use this repository, please cite the associated article. Full citation details and DOI will be added after publication.
 **Manuscript:**
 
 ```
-[Author Name(s)]. (2025). A Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye. [Journal Name]. [DOI]
+[Author Name(s)]. (2025). Multi-Faceted and Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye. [Journal Name]. [DOI]
 ```
 
 **Dataset:**

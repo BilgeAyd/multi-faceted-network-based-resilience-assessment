@@ -37,7 +37,7 @@ The diagram below illustrates the complete analytical pipeline integrating surve
 ## Repository Structure
 
 ```
-network-based-resilliience-assessment/
+multi-faceted-network-based-resilience-assessment/
 ├── data/                          # Input datasets and documentation
 │   ├── 02_relational_network/     # Factors-solutions network data (DE/TR)
 │   ├── 03_spatial_network/        # Road network data (6 cases)

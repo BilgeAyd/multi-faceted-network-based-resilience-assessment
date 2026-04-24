@@ -1,8 +1,8 @@
 # Multi-Faceted and Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye
 
-**Author:** [Author Name(s)]
+**Author:** [Bilge Aydın, Azime Tezer]
 
-**Year:** 2025
+**Year:** 2026
 
 **Study Context:** Comparative Resilience Analysis of Rural Shrinkage in Lüneburg Region (Germany) and Trakya Region (Turkey) ---
 
@@ -145,14 +145,15 @@ If you use this repository, please cite the associated article. Full citation de
 **Manuscript:**
 
 ```
-[Author Name(s)]. (2025). Multi-Faceted and Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye. [Journal Name]. [DOI]
+Aydın, B. & Tezer, A. (2026). Multi-Faceted and Network-Based Hybrid Resilience Assessment on Rural Shrinkage in Germany and Türkiye. Chall. Sustain., 14(2), 284-306. https://doi.org/10.56578/cis140205
+
 ```
 
 **Dataset:**
 
 ```
-[Author Name(s)]. (2025). Replication Data and Scripts for
-Network-Based Resilience Assessment [Data set]. [Repository DOI]
+[Aydın, B. & Tezer, A.]. (2026). Replication Data and Scripts for
+Network-Based Resilience Assessment [Data set].
 ```
 
 ---
